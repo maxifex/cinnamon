@@ -1,0 +1,17 @@
+*.pyc
+.DS_Store
+.coverage
+htmlcov/
+cache/
+var/*.log
+*.sqlite3
+bin/redis-cli
+bin/redis-server
+redis/
+.tmp/
+dist/
+*.rdb
+components/
+static/
+.idea/
+migrations/
